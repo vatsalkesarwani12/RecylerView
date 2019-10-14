@@ -12,6 +12,10 @@ public class exmpleItem {
         text2=t2;
     }
 
+    public void changeText1(String s) {
+        text1 = s;
+    }
+
     public int getmImageResourse()
     {
         return mImageResourse;
